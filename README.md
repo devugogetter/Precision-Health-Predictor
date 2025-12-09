@@ -38,6 +38,8 @@ The project demonstrates the power of **early disease prediction**, **multi-moda
 - Risk distribution
 - Patient-level risk gauge (Plotly)
 
+<img width="1086" height="350" alt="Mortality Risk Gauge" src="https://github.com/user-attachments/assets/cb89fc61-08c5-4a9c-8589-bb8a1958f897" />
+
 ## Datasets Used
 1️. **Clinical Dataset**: Heart Failure Clinical Records
 
