@@ -56,8 +56,9 @@ The project demonstrates the power of **early disease prediction**, **multi-moda
                   Clinical Risk
                         │
 ───────────────────────────────────────► Fusion Layer ► Final Risk Score
+
                         │
-                  Omics Risk
+                  Omics Risk 
                         ▲
           Random Forest Classifier
                         │
